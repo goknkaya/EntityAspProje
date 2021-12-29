@@ -6,9 +6,7 @@ ASP.NET ile geliştirdiğim ilk proje olan "Öğrenci Bilgi Sistemi"nden sonra, 
 
 <img src="https://i.hizliresim.com/3ay8k3h.png"></img>
 
-Sisteme giriş yaptıktan sonra açılan pencere "Kategoriler.aspx"dir.
-
-<img src="https://i.hizliresim.com/1507834.png"></img>
+Sisteme giriş yaptıktan sonra açılan pencere "Kategori.aspx"dir.
 
 Bu pencerede veritabanında kayıtlı mevcut kategorileri görebilir, yeni kategori de ekleyebiliriz. Menüde yer alan seçeneklerle diğer pencerelere gidebiliriz:
 
@@ -29,3 +27,7 @@ Bu pencerede veritabanında kayıtlı mevcut kategorileri görebilir, yeni kateg
 
 ## Istatistik.aspx
 <img src="https://i.hizliresim.com/l580qdh.png"></img>
+
+# Project: ASP.NET Entity Framework Based Online Selling Site Created with Linq Queries
+
+ASP.NET other process information is a project within the education system after the first project "Student Information". As soon as the project is opened, it logs in. Admins (Usernames: admin1 and admin2) located in the system log in to the system through their passes (Passwords: 1 and 2).
