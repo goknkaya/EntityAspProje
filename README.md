@@ -1,4 +1,4 @@
-#### #### "Murat Yücedağ ASP.NET Bootstrap ile SQL Tabanlı Web Siteleri Geliştirin" Udemy Kursuna ait ASP.NET Projesi
+#### "Murat Yücedağ ASP.NET Bootstrap ile SQL Tabanlı Web Siteleri Geliştirin" Udemy Kursuna ait ASP.NET Projesi
 
 # Proje: ASP.NET Entity Framework Tabanlı Linq Sorgularla Oluşturulan Online Satış Sitesi
 
