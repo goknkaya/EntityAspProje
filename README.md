@@ -1,5 +1,3 @@
-#### Murat Yücedağ ASP.NET Bootstrap ile SQL Tabanlı Web Siteleri Geliştirin" Udemy Kursuna ait ASP.NET Projesi
-
 # Proje: ASP.NET Entity Framework Tabanlı Linq Sorgularla Oluşturulan Online Satış Sitesi
 
 ASP.NET ile geliştirdiğim ilk proje olan "Öğrenci Bilgi Sistemi"nden sonra, aynı kurs içerisinde anlatılan bir diğer projedir. Proje açılır açılmaz login ekranı karşılamaktadır. Sistemde kayıtlı olan adminler (Kullanıcı adları: admin1 ve admin2) şifreleri aracılığıyla (Şifreleri: 1 ve 2) sisteme giriş yapar.
